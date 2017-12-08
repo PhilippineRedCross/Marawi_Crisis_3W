@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+
+  <head>
+    <title>Marawi Crisis PRC 3W Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> <!--href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+    <link rel="stylesheet" type="text/css" href="css/3w-dashboard.css"/>
+    <script src="//code.jquery.com/jquery.js"></script>
+    <script src="js/data.js"></script>
+  </head>
+  <body>
+    <div class ="col-sm-4 col-md-offset4" id="loading">
+        <h1>Loading... (~2.5MB)</h1><small>Does not work on IE8 or older</small>
+    </div>
+    <div class="container" id="dashboard">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="row">
+			<div style="display:flex">
+				<img src="images/prc_logo.png" style="height: 80px; width: 80px; top: 50px">
+				<div>
+					<h3>Marawi Crisis<br>PRC 3W Dashboard</h3>
+				</div>
+			</div>
+            <div class="col-xs-12">Explore What PRC does Where for Marawi Crisis.<br>Last update: 5 Dec 2017</div>
+            <div id="count-info" class="col-xs-10">
+              <span class="filter-count "></span> selected out of <span class="total-count "></span> activities
+            </div>
+            <div id="count-info" class="col-xs-2">
+			  <a style="background-color: #BF002D" class="btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
+            </div>
+          </div>  
+		<hr>
+          <div class="row">
+            <div id="sectors" class="col-lg-6">
+              <h4>Sectors</h4>
+              <div class="col-xs-12"># of activities</div>
+            </div>
+			<div id="organisations" class="col-lg-6">
+				  <h4>Supported by</h4>
+				  <div class="col-xs-12"># of activities</div>
+			</div>
+		  </div>
+		  <div class="row">
+			<div class="col-lg-12">
+              <h4>Services provided and # beneficiaries (Select a sector to open.)</h4>
+              <div id="services" class="col-xs-12">
+				# of beneficiaries (Note that there are different types of beneficiaries: individuals, families, municipalities. Scroll down to the activities table for more information.)
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<div id="map" class="col-lg-6">
+          <h3>Response area</h3><p><a href="javascript:municipalitiesMapShow();">Municipalities</a> - Provinces</p>
+        </div>
+        <div id="map2" class="col-lg-6">
+          <h3>Response area</h3><p>Municipalities - <a href="javascript:provincesMapShow();">Provinces</a></p>
+        </div>            
+      </div>
+	  <div class='row'>
+		<div class='span12'>
+		  <table class='table table-hover' id='dc-table-graph'>
+			<thead>
+			  <tr class='header'>
+				<th>Organisation</th>
+				<th>Sector</th>
+				<th>Subsector</th>
+				<th>Service provided</th>
+				<th>Province</th>
+				<th>Municipality</th>
+				<th>Barangay</th>
+				<th>Status</th>
+				<th>Beneficiaries</th>
+				<th>Beneficiary type</th>				
+			  </tr>
+			</thead>
+		  </table>
+		</div>
+	  </div>
+
+    </div>
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/crossfilter.js"></script>
+    <script type="text/javascript" src="js/dc.js"></script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-46399763-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    <script type="text/javascript" src="js/site.js"></script> 
+    <!-- <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script> -->
+  </body>
+</html>
