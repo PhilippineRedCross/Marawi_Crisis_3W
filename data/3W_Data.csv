@@ -2422,8 +2422,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 2421;ICRC;Health;PSS;Psychosocial Support;1035;103504;Maria Cristina;Finished;44;individuals
 2422;ICRC;WASH;Water;Water;1035;103504;Buru-Un;Finished;10000;liters
 2423;ICRC;WASH;Water;Water;1035;103504;Santa Elena;Finished;10000;liters
-2424;Local Donor: Filipino Community in Australia;relief;non-Food Items;Slippers;1035;103504;Buru-Un;Finished;585;Individuals
-2425;Local Donor: Filipino Community in Australia;relief;non-Food Items;Slippers;1035;103504;Buru-Un;Finished;212;Individuals
+2424;Local Donor: Filipino Community in Australia;Relief;non-Food Items;Slippers;1035;103504;Buru-Un;Finished;585;Individuals
+2425;Local Donor: Filipino Community in Australia;Relief;non-Food Items;Slippers;1035;103504;Buru-Un;Finished;212;Individuals
 2426;ICRC;Health;PSS;Psychosocial Support;1035;103504;Buru-Un;Finished;84;Individuals
 2427;ICRC;Health;PSS;Psychosocial Support;1035;103504;Buru-Un;Finished;104;Individuals
 2428;ICRC;WASH;Water;Water;1035;103504;Buru-Un;Finished;10000;liters
@@ -4257,7 +4257,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 4256;ICRC;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;117;individuals
 4257;ICRC;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;64;individuals
 4258;ICRC;WASH;Water;water;1536;153625;Poblacion;Finished;15000;liters
-4259;ICRC;relief;Hot Meals;Hot Meals;1536;153625;Poblacion;Finished;180;individuals
+4259;ICRC;Relief;Hot Meals;Hot Meals;1536;153625;Poblacion;Finished;180;individuals
 4260;ICRC;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;173;individuals
 4261;ICRC;WASH;Water;water;1536;153625;Poblacion;Finished;10000;liters
 4262;ICRC;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;54;individuals
