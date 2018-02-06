@@ -407,7 +407,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 406;Philippine Red Cross;WASH;Water;Water;1035;103502;East Poblacion;Finished;1500;liters
 407;Philippine Red Cross;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;58;individuals
 408;Philippine Red Cross;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;1;individuals
-409;Philippine Red Cross;Health;Referral;health referral;1035;103502;East Poblacion;Finished;1;individuals
+409;Philippine Red Cross;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;1;individuals
 410;Philippine Red Cross;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;17;individuals
 411;Philippine Red Cross;Health;Transport;Ambulance Transport;1035;103502;East Poblacion;Finished;1;individual
 412;Philippine Red Cross;Health;Referral;Health Referral;1035;103502;East Poblacion;Finished;1;individual
@@ -426,7 +426,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 425;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;7;individuals
 426;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103502;East Poblacion;Finished;6;individuals
 427;Philippine Red Cross;WASH;Water;Water;1035;103502;East Poblacion;Finished;1500;liters
-428;Philippine Red Cross;Health;Health;health Care (BHCU);1035;103502;East Poblacion;Finished;63;individuals
+428;Philippine Red Cross;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;63;individuals
 429;Philippine Red Cross;WASH;Water;Water;1035;103502;East Poblacion;Finished;1500;liters
 430;Philippine Red Cross;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;49;individuals
 431;Philippine Red Cross;Health;Health;Health Care (BHCU);1035;103502;East Poblacion;Finished;1;individuals
@@ -578,7 +578,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 577;Philippine Red Cross;WASH;Water;Water;1035;103502;Landa Madrasah;Finished;5000;liters
 578;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103502;Landa Madrasah;Finished;37;individuals
 579;Philippine Red Cross;WASH;Water;Water;1035;103502;Landa Madrasah;Finished;3500;liters
-580;Philippine Red Cross;Health;PSS;psychosocial Support;1035;103502;Landa Madrasah;Finished;49;individuals
+580;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103502;Landa Madrasah;Finished;49;individuals
 581;Philippine Red Cross;WASH;Water;Water;1035;103502;Landa Madrasah;Finished;5000;liters
 582;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103502;Landa Madrasah;Finished;27;individuals
 583;Philippine Red Cross;WASH;Water;Water;1035;103502;Landa Madrasah;Finished;5000;liters
@@ -2026,7 +2026,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 2025;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Maria Cristina;Finished;79;individuals
 2026;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Maria Cristina;Finished;44;individuals
 2027;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Maria Cristina;Finished;45;individuals
-2028;Philippine Red Cross;Health;PSS;psychosocial Support;1035;103505;Maria Cristina;Finished;59;individuals
+2028;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Maria Cristina;Finished;59;individuals
 2029;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Maria Cristina;Finished;118;individuals
 2030;Philippine Red Cross;Health;Transport;Ambulance Transport;1035;103505;Pala-o;Finished;5;individuals
 2031;Philippine Red Cross;Health;Transport;Ambulance Transport;1035;103505;Pala-o;Finished;1;individual
@@ -2644,7 +2644,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 2643;Philippine Red Cross;WASH;Water;Water;1035;103523;Poblacion;Finished;12000;liters
 2644;Philippine Red Cross;WASH;Water;Water;1035;103523;Poblacion;Finished;12000;liters
 2645;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103523;Poblacion;Finished;30;individuals
-2646;Philippine Red Cross;Health;Referral;welfare Referral;1035;103523;Poblacion;Finished;1;individuals
+2646;Philippine Red Cross;Health;Referral;Welfare Referral;1035;103523;Poblacion;Finished;1;individuals
 2647;Philippine Red Cross;WASH;Water;Water;1035;103523;Poblacion;Finished;12000;liters
 2648;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103523;Poblacion;Finished;8;individuals
 2649;Philippine Red Cross;WASH;Water;Water;1035;103523;Poblacion;Finished;12000;liters
@@ -2704,7 +2704,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 2703;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103523;Poblacion;Finished;43;individuals
 2704;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103523;Poblacion;Finished;43;individuals
 2705;Philippine Red Cross;WASH;Water;Water;1035;103523;Poblacion;Finished;10000;liters
-2706;Philippine Red Cross;Health;PSS;psychosocial Support;1035;103523;Poblacion;Finished;49;individuals
+2706;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103523;Poblacion;Finished;49;individuals
 2707;Philippine Red Cross;WASH;Water;Water;1035;103523;Poblacion;Finished;10000;liters
 2708;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103523;Poblacion;Finished;64;individuals
 2709;Philippine Red Cross;WASH;Water;Water;1035;103523;Poblacion;Finished;10000;liters
@@ -3072,11 +3072,11 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 3071;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153617;Bito Buadi Itowa;Finished;36;individuals
 3072;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153617;Bito Buadi Itowa;Finished;36;individuals
 3073;Philippine Red Cross;WASH;Water;Water;1536;153617;Bito Buadi Itowa;Finished;10000;liters
-3074;Philippine Red Cross;Health;PSS;psychosocial Support;1536;153617;Bito Buadi Itowa;Finished;43;individuals
+3074;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153617;Bito Buadi Itowa;Finished;43;individuals
 3075;Philippine Red Cross;Health;PSS;Psychosocial Support (Film Showing);1536;153617;Bito Buadi Itowa;Finished;28;individuals
 3076;Philippine Red Cross;WASH;Water;Water;1536;153617;Bito Buadi Itowa;Finished;10000;liters
 3077;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153617;Bito Buadi Itowa;Finished;17;individuals
-3078;Philippine Red Cross;Health;Referral;welfare Referral;1536;153617;Bito Buadi Itowa;Finished;1;individuals
+3078;Philippine Red Cross;Health;Referral;Welfare Referral;1536;153617;Bito Buadi Itowa;Finished;1;individuals
 3079;Philippine Red Cross;WASH;Water;Water;1536;153617;Bito Buadi Itowa;Finished;10000;liters
 3080;Philippine Red Cross;WASH;Water;Water;1536;153617;Bito Buadi Itowa;Finished;10000;liters
 3081;Philippine Red Cross;WASH;Water;Water;1536;153617;Bito Buadi Itowa;Finished;10000;liters
@@ -4302,7 +4302,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 4301;Philippine Red Cross;WASH;Non-Food Items;Hygiene Kit;1536;153625;Poblacion;Finished;87;families
 4302;Philippine Red Cross;Relief;Hot Meals;Hot Meals;1536;153625;Poblacion;Finished;590;individuals
 4303;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;46;individuals
-4304;Philippine Red Cross;Health;PSS;Psychosocial Support (film showing);1536;153625;Poblacion;Finished;72;individuals
+4304;Philippine Red Cross;Health;PSS;Psychosocial Support (Film Showing);1536;153625;Poblacion;Finished;72;individuals
 4305;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;12000;liters
 4306;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;1536;153625;Poblacion;Finished;89;individuals
 4307;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;22;individuals
@@ -4401,8 +4401,8 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 4400;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;54;individuals
 4401;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;36;individuals
 4402;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;12000;liters
-4403;Philippine Red Cross;Health;PSS;psychosocial Support;1536;153625;Poblacion;Finished;47;individuals
-4404;Philippine Red Cross;Health;PSS;psychosocial Support;1536;153625;Poblacion;Finished;38;individuals
+4403;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;47;individuals
+4404;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;38;individuals
 4405;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;12000;liters
 4406;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;19;individuals
 4407;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;27;individuals
@@ -4410,7 +4410,7 @@ ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_COD
 4409;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;10000;liters
 4410;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;48;individuals
 4411;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;37;individuals
-4412;Philippine Red Cross;Health;Referral;welfare Referral;1536;153625;Poblacion;Finished;1;individuals
+4412;Philippine Red Cross;Health;Referral;Welfare Referral;1536;153625;Poblacion;Finished;1;individuals
 4413;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;12000;liters
 4414;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;12000;liters
 4415;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;12000;liters
