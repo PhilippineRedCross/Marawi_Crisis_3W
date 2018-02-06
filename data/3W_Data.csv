@@ -1807,8 +1807,8 @@ ID;Organisation;Sector;Sub Sector;Materials/Service Provided;Province_CODE;Munic
 1806;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Buru-Un;Finished;24;individuals
 1807;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Buru-Un;Finished;55;individuals
 1808;Philippine Red Cross;WASH;Water;Water;1035;103505;Buru-Un;Finished;10000;liters
-1809;Philippine Red Cross;relief;non-Food Items;Slippers;1035;103505;Buru-Un;Finished;585;Individuals
-1810;Philippine Red Cross;relief;non-Food Items;Slippers;1035;103505;Buru-Un;Finished;212;Individuals
+1809;Philippine Red Cross;Relief;non-Food Items;Slippers;1035;103505;Buru-Un;Finished;585;Individuals
+1810;Philippine Red Cross;Relief;non-Food Items;Slippers;1035;103505;Buru-Un;Finished;212;Individuals
 1811;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Buru-Un;Finished;84;Individuals
 1812;Philippine Red Cross;Health;PSS;Psychosocial Support;1035;103505;Buru-Un;Finished;104;Individuals
 1813;Philippine Red Cross;WASH;Water;Water;1035;103505;Buru-Un;Finished;10000;liters
@@ -4393,7 +4393,7 @@ ID;Organisation;Sector;Sub Sector;Materials/Service Provided;Province_CODE;Munic
 4392;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;117;individuals
 4393;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;64;individuals
 4394;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;15000;liters
-4395;Philippine Red Cross;relief;Hot Meals;Hot Meals;1536;153625;Poblacion;Finished;180;individuals
+4395;Philippine Red Cross;Relief;Hot Meals;Hot Meals;1536;153625;Poblacion;Finished;180;individuals
 4396;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;173;individuals
 4397;Philippine Red Cross;WASH;Water;Water;1536;153625;Poblacion;Finished;10000;liters
 4398;Philippine Red Cross;Health;PSS;Psychosocial Support;1536;153625;Poblacion;Finished;54;individuals
