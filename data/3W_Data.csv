@@ -1,4 +1,4 @@
-ID;Organisation;Sector;Subsector;Service provided;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
 1;Philippine Red Cross;Relief;Non-Food Items;Sleeping Kit (Mat);1125;112509;Lawigan;Finished;22;families
 2;Philippine Red Cross;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1125;112509;Lawigan;Finished;22;families
 3;Philippine Red Cross;Health;Transport;Ambulance Transport;1035;103502;Balut;Finished;1;individual
