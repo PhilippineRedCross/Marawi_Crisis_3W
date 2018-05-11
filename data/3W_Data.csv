@@ -1,4 +1,4 @@
-ID;Organisation;Sector;Subsector;Service provided;Province;Municipality;Barangay;Status;Beneficiaries;Beneficiary type
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
 1;ICRC;Disaster Management;Disaster Management;MDM Crash Course;1536;153617;Buadi Sacayo;Finished;84;individual
 2;ICRC;WASH;Sanitation;Bathing Facility;1536;153625;Poblacion;Finished;19;cubicles
 3;ICRC;WASH;Sanitation;Bathing Facility;1035;103504;Maria Cristina;Finished;8;cubicles
